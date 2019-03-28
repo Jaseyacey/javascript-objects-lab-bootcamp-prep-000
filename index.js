@@ -1,3 +1,3 @@
 var recipe {
-  beer: 'water' 'barley' 'hops'; 
+  beer: 'water' 'barley' 'hops';
 }
