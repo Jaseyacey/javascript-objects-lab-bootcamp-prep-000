@@ -1,5 +1,5 @@
 var recipes = {
-  ingredient1 = 'avocado'
-  ingredient2 = 'cheese'
-  ingredient3 = 'bread'
+  beer = 'barley', 'hops', 'water';
+  cheeseSandwich = 'cheese', 'bread',;
+  water = 'hydrogen', 'oxygen'; 
 }
