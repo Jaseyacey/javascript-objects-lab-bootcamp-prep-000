@@ -3,7 +3,3 @@ var recipes = {
   ingredient2 = 'cheese'
   ingredient3 = 'bread'
 }
-
-
-
-function destructivelyUpdateObjectWithKeyAndValue(recipes,)
