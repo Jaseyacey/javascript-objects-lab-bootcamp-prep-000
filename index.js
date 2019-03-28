@@ -1,1 +1,3 @@
-var recipes = new object({});
+var recipes {
+  beer: 'water' 'barley' 'hops'; 
+}
