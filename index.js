@@ -1,3 +1,1 @@
-var recipe {
-  beer: 'water' 'barley' 'hops';
-}
+var recipe = {};
